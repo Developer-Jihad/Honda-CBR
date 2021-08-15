@@ -6,7 +6,9 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 h1{
+    font-size: 36px;
     font-weight: 600;
+    line-height: 72px;
 }
 p{
     font-weight: 400;
@@ -15,6 +17,7 @@ p{
 /* Other Styles */
 .button-color{
     background-color: #E76F51;
+    padding: 6px 30px;
 }
 .top-backgroud{
     background-color: #264653
