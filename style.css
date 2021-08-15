@@ -1,0 +1,28 @@
+/* Font Styles */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+/* Common Styles */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-weight: 600;
+}
+p{
+    font-weight: 400;
+}
+
+/* Other Styles */
+.button-color{
+    background-color: #E76F51;
+}
+.top-backgroud{
+    background-color: #264653
+    ;
+}
+.colourful-text{
+    color: #E76F51;
+}
+.client-name{
+    color: #23A6F0;
+}
